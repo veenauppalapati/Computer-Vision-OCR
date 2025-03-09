@@ -9,11 +9,13 @@ The input files used in this workflow are not added as for security reasons of t
 - Extract text and bounding boxes using an OCR engine like Tesseract.
 - Normalize bounding boxes to fit the 0-1000 range for LayoutLMv3.
 - Clean and correct OCR errors (e.g., fuzzy matching for misspellings).
- **Fine-Tune LayoutLMv3 on the Custom Dataset**
+
+**Fine-Tune LayoutLMv3 on the Custom Dataset**
 - Prepare the dataset in Hugging Face's datasets format (words, bounding boxes, labels).
 - Train LayoutLMv3 using labeled data (assign QUESTION, ANSWER, HEADER, etc.).
 - Evaluate the model’s performance on validation data.
- **Process and Use the Trained Model**
+
+**Process and Use the Trained Model**
 - Load the fine-tuned LayoutLMv3 model.
 - Pass new document images and extracted text through the model.
 - Retrieve structured output with correctly labeled entities.
