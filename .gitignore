@@ -173,4 +173,3 @@ cython_debug/
 # Ignore input datasets
 pickles/
 Input/
-*.pkl
