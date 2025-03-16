@@ -1,1 +1,33 @@
 # Computer-Vision-OCR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+W2 dataset from: https://www.kaggle.com/datasets/mcvishnu1/fake-w2-us-tax-form-dataset
