@@ -28,3 +28,14 @@ Should the fine-tuning of the Donut model fail to improve the extraction of data
 W2 dataset from: https://www.kaggle.com/datasets/mcvishnu1/fake-w2-us-tax-form-dataset
 Donut transformer model from: https://huggingface.co/docs/transformers/main/en/model_doc/donut, the specific model used is: "naver-clova-ix/donut-base-finetuned-docvqa"
 
+#### Requirements to run base gradio_combo_adventure:
+gradio==5.21.0
+joblib==1.4.2
+pandas==2.2.3
+Pillow==11.1.0
+pytesseract==0.3.13
+torch==2.6.0
+tqdm==4.66.5
+transformers==4.49.0
+along with any additional dependencies required by the above libraries.
+
