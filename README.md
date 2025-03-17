@@ -30,12 +30,20 @@ Donut transformer model from: https://huggingface.co/docs/transformers/main/en/m
 
 #### Requirements to run base gradio_combo_adventure:
 gradio==5.21.0
+
 joblib==1.4.2
+
 pandas==2.2.3
+
 Pillow==11.1.0
+
 pytesseract==0.3.13
+
 torch==2.6.0
+
 tqdm==4.66.5
+
 transformers==4.49.0
+
 along with any additional dependencies required by the above libraries.
 
