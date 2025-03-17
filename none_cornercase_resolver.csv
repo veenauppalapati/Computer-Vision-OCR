@@ -2,30 +2,60 @@
 0,What is the Employee's Address?,717-24-469,"285 Edwards Wall, East Margaret, KY"
 1,What is the Employee's first name and last name?,derrick graham,Derrick Graham
 2,"What are the wages, tips and compensation?",48676.83,48676.83
-3,What is the Employee's Address?,statement,"722 Pearson Pine Apt. 833, Lake Alan, NJ"
-4,What is the Employee's first name and last name?,julie miller,Julie Miller
-5,"What are the wages, tips and compensation?",72019.45,72019.45
-6,What is the Employee's Address?,statement,"71278 Miller Roads Apt. 323, South Rogershire, VT"
-7,What is the Employee's first name and last name?,elizabeth russo,Elizabeth Russo
-8,"What are the wages, tips and compensation?",71230.77,71230.77
-9,What is the Employee's Address?,statement,"5665 Joyce Burgs, Joshuaport, RI"
-10,What is the Employee's first name and last name?,joshuaport,Jessica Sanchez
-11,"What are the wages, tips and compensation?",190333.67,190333.67
-12,What is the Employee's Address?,statement,"065 Jones Mountains Apt. 633, East Feliciafort, AR"
-13,What is the Employee's first name and last name?,richard nichols,Richard Nichols
-14,"What are the wages, tips and compensation?",160803.36,160803.36
-15,What is the Employee's Address?,24-1315390,"86256 Scott Mountains, Monicaville, KY"
-16,What is the Employee's first name and last name?,jose dodson,Jose Dodson
-17,"What are the wages, tips and compensation?",244846.72,244846.72
-18,What is the Employee's Address?,8893.4,"944 Morgan Springs, Caroylnfort, PA"
-19,What is the Employee's first name and last name?,andrew fitzgerald,Andrew Fitzgerald
-20,"What are the wages, tips and compensation?",92132.2,92132.2
-21,What is the Employee's Address?,statement,"295 Bradshaw Glen, Ashleyland, SC"
-22,What is the Employee's first name and last name?,stephen hill,Stephen Hill
-23,"What are the wages, tips and compensation?",138864.i,138864.1
-24,What is the Employee's Address?,statement,"38918 Kennesh Street, Port Daniel, NJ"
-25,What is the Employee's first name and last name?,frank medina,Frank Medina
-26,"What are the wages, tips and compensation?",111818.35,111818.35
-27,What is the Employee's Address?,statement,"64328 Jacobs Streets Suite 697, Ballardland, MO"
-28,What is the Employee's first name and last name?,briana fischer,Briana Fischer
-29,"What are the wages, tips and compensation?",150442.84,150442.84
+3,What is the zip code?,25129-5725,53495
+4,What is the first value for the state income tax in box 17?,1120.31,1120.31
+5,What is the year next to the Wage and Tax Statement?,2010,2010
+6,What is the Employee's Address?,statement,"722 Pearson Pine Apt. 833, Lake Alan, NJ"
+7,What is the Employee's first name and last name?,julie miller,Julie Miller
+8,"What are the wages, tips and compensation?",72019.45,72019.45
+9,What is the zip code?,25370.76,74329-0997
+10,What is the first value for the state income tax in box 17?,1818.88,1818.88
+11,What is the year next to the Wage and Tax Statement?,2010,2010
+12,What is the Employee's Address?,statement,"71278 Miller Roads Apt. 323, South Rogershire, VT"
+13,What is the Employee's first name and last name?,elizabeth russo,Elizabeth Russo
+14,"What are the wages, tips and compensation?",71230.77,71230.77
+15,What is the zip code?,6556.5,56613
+16,What is the first value for the state income tax in box 17?,1548.11,1377.51
+17,What is the year next to the Wage and Tax Statement?,2010,2010
+18,What is the Employee's Address?,statement,"5665 Joyce Burgs, Joshuaport, RI"
+19,What is the Employee's first name and last name?,joshuaport,Jessica Sanchez
+20,"What are the wages, tips and compensation?",190333.67,190333.67
+21,What is the zip code?,685-04-2829,55400-5157
+22,What is the first value for the state income tax in box 17?,104010.55,4213.21
+23,What is the year next to the Wage and Tax Statement?,2010,2010
+24,What is the Employee's Address?,statement,"065 Jones Mountains Apt. 633, East Feliciafort, AR"
+25,What is the Employee's first name and last name?,richard nichols,Richard Nichols
+26,"What are the wages, tips and compensation?",160803.36,160803.36
+27,What is the zip code?,75105-9453,91428-403
+28,What is the first value for the state income tax in box 17?,7130.75,5713.27
+29,What is the year next to the Wage and Tax Statement?,2010,2010
+30,What is the Employee's Address?,24-1315390,"86256 Scott Mountains, Monicaville, KY"
+31,What is the Employee's first name and last name?,jose dodson,Jose Dodson
+32,"What are the wages, tips and compensation?",244846.72,244846.72
+33,What is the zip code?,27841-4941,29820-2181
+34,What is the first value for the state income tax in box 17?,16,6548.84
+35,What is the year next to the Wage and Tax Statement?,2010,2010
+36,What is the Employee's Address?,8893.4,"944 Morgan Springs, Caroylnfort, PA"
+37,What is the Employee's first name and last name?,andrew fitzgerald,Andrew Fitzgerald
+38,"What are the wages, tips and compensation?",92132.2,92132.2
+39,What is the zip code?,8893.4,86349-9772
+40,What is the first value for the state income tax in box 17?,4163.44,4163.44
+41,What is the year next to the Wage and Tax Statement?,2010,2010
+42,What is the Employee's Address?,statement,"295 Bradshaw Glen, Ashleyland, SC"
+43,What is the Employee's first name and last name?,stephen hill,Stephen Hill
+44,"What are the wages, tips and compensation?",138864.i,138864.1
+45,What is the zip code?,387-78-4467,91789-3140
+46,What is the first value for the state income tax in box 17?,14,4472.93
+47,What is the year next to the Wage and Tax Statement?,2010,2010
+48,What is the Employee's Address?,statement,"38918 Kennesh Street, Port Daniel, NJ"
+49,What is the Employee's first name and last name?,frank medina,Frank Medina
+50,"What are the wages, tips and compensation?",111818.35,111818.35
+51,What is the zip code?,93494-2138,18183-2324
+52,What is the first value for the state income tax in box 17?,54972.71,5902.7
+53,What is the year next to the Wage and Tax Statement?,2010,2010
+54,What is the Employee's Address?,statement,"64328 Jacobs Streets Suite 697, Ballardland, MO"
+55,What is the Employee's first name and last name?,briana fischer,Briana Fischer
+56,"What are the wages, tips and compensation?",150442.84,150442.84
+57,What is the zip code?,51162.62,01623-8652
+58,What is the first value for the state income tax in box 17?,5364.73,5364.73
+59,What is the year next to the Wage and Tax Statement?,2010,2010
