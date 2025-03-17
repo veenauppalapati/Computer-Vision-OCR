@@ -1,5 +1,6 @@
 # Computer-Vision-OCR
 -final project for Rugters AI bootcamp
+
 In this git we address the issue of W2 document scanning that is usable on a local consumer device. The desired features to be extracted from the W2 are the address, wages, first and last name, and year to be used for personal record keeping. Using a query based Donut transformer, other features of the document can be extracted but with limited accuracy. To address the issues with extracting the employee address, a separate ocr model is engaged and employed when it detects "employee" and "address" in the query. Because Donut is not a massive transformer model it is recommended to use the vocabulary that is as close to what is present on the document as possible. Technically the code is device agnostic and a cpu can be used, however a computer with a GPU having at least 19 GB of free vram and reasonably fast clock speeds was employed in testing (Radeon 7900xtx), using this GPU the processing of 85 documents via the document parser took ~4 minutes, cpu will probably be much slower. 
 
 ## Fast Start
